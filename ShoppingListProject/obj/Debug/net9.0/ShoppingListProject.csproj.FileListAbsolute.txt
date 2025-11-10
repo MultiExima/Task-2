@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\bin\Debug\net9.0\ShoppingListProject.exe
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\bin\Debug\net9.0\ShoppingListProject.deps.json
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\bin\Debug\net9.0\ShoppingListProject.runtimeconfig.json
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\bin\Debug\net9.0\ShoppingListProject.dll
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\bin\Debug\net9.0\ShoppingListProject.pdb
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.AssemblyInfo.cs
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.dll
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\refint\ShoppingListProject.dll
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.pdb
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ShoppingListProject.genruntimeconfig.cache
+C:\Users\user\OneDrive\ITMO\ЯПы\ShoppingListProject\obj\Debug\net9.0\ref\ShoppingListProject.dll
